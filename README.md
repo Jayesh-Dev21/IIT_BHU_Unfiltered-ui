@@ -1,2 +1,2 @@
 # facesmash-ui
-Web ui for facesmash using passport images of students {publically available}
+Web ui for Facesmash using passport images of students {publicly available}
